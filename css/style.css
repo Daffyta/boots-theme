@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1%;
+}
+
+.btn-row {
+    margin-bottom: 10px;
+}
+
+.label-h {
+    display: flex;
+}
+
+.label-h h2{
+  margin-bottom: 0% !important;
+  border-bottom: transparent !important;
+}
+
+.label {
+    margin: 2px;
+}
+
+.badge-a {
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+#carousel{
+  margin-bottom: 2%;
+}
